@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://y14s3hteeclp"]
+
+[ext_resource type="Script" uid="uid://bfiixinc6jgok" path="res://assets/scripts/player/pauseMenu.gd" id="1_5dhul"]
+[ext_resource type="Texture2D" uid="uid://drg8uoou2eiy0" path="res://assets/images/ui/menus/Pause-base.png" id="1_isw37"]
+
+[node name="Pause" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_5dhul")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(624, 355)
+texture = ExtResource("1_isw37")

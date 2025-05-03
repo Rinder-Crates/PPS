@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dvk6q2ymhvl3q"
+path="res://.godot/imported/PPS - Teal Trails Waking Ways.ogg-7693cca6d01a2a55848ef506ade266e2.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/PPS - Teal Trails Waking Ways.ogg"
+dest_files=["res://.godot/imported/PPS - Teal Trails Waking Ways.ogg-7693cca6d01a2a55848ef506ade266e2.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=15.11
+bpm=127.0
+beat_count=0
+bar_beats=4

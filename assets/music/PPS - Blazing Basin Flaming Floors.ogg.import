@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b14j3fq2jpwnm"
+path="res://.godot/imported/PPS - Blazing Basin Flaming Floors.ogg-ca31803ab12c08c88d12e64ad7b62969.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/PPS - Blazing Basin Flaming Floors.ogg"
+dest_files=["res://.godot/imported/PPS - Blazing Basin Flaming Floors.ogg-ca31803ab12c08c88d12e64ad7b62969.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=13.33
+bpm=0
+beat_count=0
+bar_beats=4
